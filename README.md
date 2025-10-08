@@ -51,13 +51,13 @@ install.packages("ggplot2")
 git clone https://github.com/<mairasovax111>/<DS1>.git
 cd <DS1>
 
-Open R (or RStudio) in this project folder.
+2. Open R (or RStudio) in this project folder.
 
-Run the analysis script:
+3. Run the analysis script:
 
 source("mini_project/DS.R")
 
-Check the results:
+4. Check the results:
 
 Summary statistics will print in the R console.
 
